@@ -17,14 +17,18 @@
   Argon2id + AES-256 이중 암호화, HTML 컨테이너, postMessage 청크 전송  
   [GitHub](https://github.com/racgoo/encrypture) · [서비스](https://encrypture.racgoo.com)
 
-- **Scry** · JavaScript/TypeScript 런타임 디버깅 도구  
-  Babel Plugin + Web UI로 함수 호출/입출력/컨텍스트 추적  
-  [GitHub](https://github.com/racgoo/scry) · [NPM](https://www.npmjs.com/package/@racgoo/scry)
-
 - **eslint-plugin-barrel-rules** · Barrel Pattern 강제 ESLint 플러그인  
   TypeScript path alias, glob 패턴, ES/CJS 호환 지원  
   [GitHub](https://github.com/racgoo/eslint-plugin-barrel-rules) · [NPM](https://www.npmjs.com/package/eslint-plugin-barrel-rules)
 
+- **reactive-kit** · Vue Reactivity 기반 React Fine-Grained 상태 관리
+  Object, Array, Map, Set, Primitive 완벽 지원 | Ref/State/Effect/SubRef  
+  [GitHub](https://github.com/racgoo/reactive-kit) · [NPM](https://www.npmjs.com/package/@racgoo/reactive-kit)
+
+- **Scry** · JavaScript/TypeScript 런타임 디버깅 도구  
+  Babel Plugin + Web UI로 함수 호출/입출력/컨텍스트 추적  
+  [GitHub](https://github.com/racgoo/scry) · [NPM](https://www.npmjs.com/package/@racgoo/scry)
+  
 ---
 
 ## 🏢 Experience
