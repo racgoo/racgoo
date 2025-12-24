@@ -1,4 +1,4 @@
-# 👋 성락현 (Rakhyun Sung)
+# 👋 성락현 (Rakhyen Sung)
 
 복잡한 문제를 좋아하는 프론트엔드 개발자입니다.  
 
