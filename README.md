@@ -6,8 +6,9 @@
 
 ## 🔗 Links
 
-- GitHub: [github.com/racgoo](https://github.com/racgoo)  
-- Velog: [velog.io/@racgoo](https://velog.io/@racgoo)  
+- [GitHub](https://github.com/racgoo)  
+- [Velog](https://velog.io/@racgoo)
+- [LinkedIn](https://www.linkedin.com/in/%EB%9D%BD%ED%98%84-%EC%84%B1-295851331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
@@ -32,11 +33,12 @@
 ---
 
 ## 🏢 Experience
-
+- **STCLAB**
+  NetFUNNEL Console 개발
 - **서클플랫폼** · Frontend Engineer  
   React/React-Native 앱·웹, 로그인 서버, 프록시 서버, AWS 인프라 운영  
 - **디에스랩글로벌** · Frontend Engineer  
-  AI 모델 학습 대시보드, 폴링 기반 실시간 갱신 및 UX 개선 작업
+  AI 모델 학습 대시보드, 폴링 기반 실시간 갱신 및 UX 개선
 
 ---
 
