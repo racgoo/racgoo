@@ -40,7 +40,7 @@
 ---
 
 ## Experience
-- **STCLAB** · Frontend Engineer
+- **STCLAB** · Frontend Engineer  
   NetFUNNEL Console 개발
 - **서클플랫폼** · Frontend Engineer  
   React/React-Native 앱·웹, 로그인 서버, 프록시 서버, AWS 인프라 운영  
