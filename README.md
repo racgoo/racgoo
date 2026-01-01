@@ -12,7 +12,14 @@
 
 ---
 
-## 🧪 Representative Projects
+## Contributions
+
+- [toss/es-git](https://github.com/pulls?q=is%3Apr+author%3Aracgoo+repo%3Atoss%2Fes-git+)
+
+
+---
+
+## Representative Projects
 
 - **EnCrypture** · 웹 기반 파일 암호화 서비스  
   Argon2id + AES-256 이중 암호화, HTML 컨테이너, postMessage 청크 전송  
@@ -32,7 +39,7 @@
   
 ---
 
-## 🏢 Experience
+## Experience
 - **STCLAB**
   NetFUNNEL Console 개발
 - **서클플랫폼** · Frontend Engineer  
@@ -42,7 +49,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 - 건국대학교 컴퓨터공학과 (2018.03 ~ 2024.08)  
 - 현대 소프티어 부트캠프 4기 (Frontend Track)
